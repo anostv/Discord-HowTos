@@ -60,7 +60,6 @@ Hide embeds/previews in links
 \
 \
 \
-\
 ![image](https://github.com/user-attachments/assets/5d245df2-20fd-4c98-a953-4df3911f0844)
 
 ![image](https://github.com/user-attachments/assets/db2c813d-c4eb-47ad-bdfe-a4d25df3d90f)
