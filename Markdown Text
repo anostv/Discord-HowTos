@@ -1,0 +1,32 @@
+# This is a BIG header. 
+## This is a medium-sized header.
+### This is a reasonably-sized header.
+-# This is a subtext.
+
+**Bold text**
+
+*Italic*
+
+~~Cross out text~~
+
+__Underline text__
+
+||Spoilers||
+
+[Masked Link](https://URL.goes.here)
+
+> Single line Blockquote
+
+>>> Multiline Blockquote
+
+Making a list:
+- This is a list
+  - Of stuff
+- Things
+  - More things
+  
+<https://URL.goes.here>
+
+`Single Line Codeblock` <-- One backtick before and after text
+
+For Multiple Line Codeblocks use three backticks(`) before and after the text
